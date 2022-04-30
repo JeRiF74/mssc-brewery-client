@@ -1,0 +1,1 @@
+package az.micro.msscbreweryclient.web.client;
